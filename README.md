@@ -10,7 +10,7 @@ Want to know more about me? [Check out my portfolio.](https://ajtbrown.com/)
 
 ## 📝 Latest Project
 
-[![AJ's Libre REST Api](./assets/GitHubHeader.png)](https://ajtbrown.com)(https://github.com/AJ-Brown-InTech/libre-api)
+[Check out my latest project](https://github.com/AJ-Brown-InTech/libre-api)
 <br>
 ## &#x1f4c8; GitHub Stats
 
