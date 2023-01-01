@@ -2,7 +2,7 @@
 
 Hey 👋
 
-I’m AJ, a full-stack engineer, creative coder and self-proclaimed nerd who specializes in web & mobile applications. I make it my mission to translate & build my version of the digital world one step at a time.
+I’m AJ, a full-stack engineer, creative coder and self-proclaimed computer nerd who specializes in web & mobile applications. I make it my mission to translate & build my version of the digital world one step at a time.
 
 Want to know more about me? [Check out my portfolio.](https://ajtbrown.com/)
 
