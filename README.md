@@ -2,7 +2,7 @@
 
 Hey 👋
 
-I’m AJ, a full-stack engineer, creative coder and self-proclaimed computer nerd who specializes in web & mobile applications. I make it my mission to translate & build my version of the digital world one step at a time.
+I’m AJ, Im building my version of the digital world  :metal:
 
 Want to know more about me? [Check out my portfolio.](https://ajtbrown.com/)
 
@@ -17,7 +17,7 @@ Want to know more about me? [Check out my portfolio.](https://ajtbrown.com/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJ-Brown-InTech&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
 
-[![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ-Brown-InTech)](https://github.com/AJ-Brown-InTech/github-readme-stats)
+<!-- [![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ-Brown-InTech)](https://github.com/AJ-Brown-InTech/github-readme-stats) -->
 ![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJ-Brown-InTech&show_icons=true)
 <!-- <a href="https://github.com/AJ-Brown-InTech">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=AJ-Brown-InTech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
