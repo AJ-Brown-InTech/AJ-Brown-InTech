@@ -29,32 +29,28 @@ Want to know more about me? [Check out my portfolio.](https://ajtbrown.com/)
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=ionic&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Redux&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
 <details>
 <summary>More Skills</summary>
 <br>
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-ZSH-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bash-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-RVM-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pip3-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Tools-Bash-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/Tools-RVM-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197) -->
+<!-- ![](https://img.shields.io/badge/Tools-Pip3-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-
-
 </details>
 
 <br>
