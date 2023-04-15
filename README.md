@@ -41,6 +41,7 @@ Want to know more about me? [Check out my portfolio.](https://ajtbrown.com/)
 <details>
 <summary>More Skills</summary>
 <br>
+  
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-ZSH-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
@@ -51,6 +52,7 @@ Want to know more about me? [Check out my portfolio.](https://ajtbrown.com/)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 <!-- ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197) -->
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+  
 </details>
 
 <br>
