@@ -31,25 +31,17 @@
 
 ---
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Toold</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Ubuntu-f57542?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Fedora"/>
   <img src="https://img.shields.io/badge/Golang-61DAFB?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" alt="Linux"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="NeoVim"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
-</p>
-
-<h2 align="center">Software</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-f57542?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Fedora"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" alt="Linux"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Postgres-47A248?logo=postgress&logoColor=white&style=for-the-badge" alt="Postgres"/>
-  <img src="https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge" alt="NeoVim"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code"/>
 </p>
 
 ---
