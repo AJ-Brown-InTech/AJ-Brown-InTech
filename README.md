@@ -31,7 +31,7 @@
 
 ---
 
-<h2 align="center">Toold</h2>
+<h2 align="center">Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash"/>
