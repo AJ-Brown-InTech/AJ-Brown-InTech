@@ -65,6 +65,6 @@
     <img src="https://img.shields.io/badge/-github-000000?style=flat-square" alt="GitHub"/>
   </a>
     <a href="http://ajtbrown.com/">
-    <img src="https://img.shields.io/badge/-github-FFB6C1?style=flat-square" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-website-FFB6C1?style=flat-square" alt="Website"/>
   </a>
 </p>
