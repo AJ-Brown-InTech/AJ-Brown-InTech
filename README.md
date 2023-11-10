@@ -35,9 +35,8 @@
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/Ubuntu-f57542?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu"/>
+
 <img src="https://img.shields.io/badge/Golang-61DAFB?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" alt="Linux"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/C-E7E7E7?logo=C&logoColor=white&style=for-the-badge" alt="C"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
