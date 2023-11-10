@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  I'm AJ, a fullstack developer from Austin, Texas.
+  I'm AJ, a software developer from Austin, Texas.
 </p>
 
 ---
