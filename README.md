@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Hi! I'm AJ, a passionate software developer from Austin, Texas, with a focus on building modern <strong>mobile and web applications</strong>. I also have a strong interest in <strong>machine learning</strong> and have built a <a href="https://github.com/AJ-Brown-InTech/linear-regression">Linear Regression project</a> from scratch as part of my ML journey.
+  I'm AJ, a software developer from Austin, Texas; i've built my career on building modern <strong>mobile and web applications</strong>. Most of my interest consist of anything technology including <strong>machine learning</strong> and have built a <a href="https://github.com/AJ-Brown-InTech/linear-regression">Linear Regression project</a> from scratch as part of my journey. Feel free to reach out and chop it up about anything nerdy. ✌️
 </p>
 
 ---
