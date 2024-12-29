@@ -15,12 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  Hey there! I'm AJ, a passionate developer from Austin, Texas. I enjoy crafting modern <strong>mobile and web applications</strong>. My journey spans across various technologies including <strong>machine learning</strong>, where I've built projects like a <a href="https://github.com/AJ-Brown-InTech/linear-regression">Linear Regression model</a>. Feel free to reach out and discuss anything tech-related! ✌️
-</p>
-
----
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
