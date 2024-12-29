@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
   <br>
@@ -15,7 +16,7 @@
 </p>
 
 <p align="center">
-  I'm AJ, a software developer from Austin, Texas. I've built my career on building modern <strong>mobile and web applications</strong>. Most of my interest consist of anything technology including <strong>machine learning</strong> and have built a <a href="https://github.com/AJ-Brown-InTech/linear-regression">Linear Regression project</a> from scratch as part of my journey. Feel free to reach out and chop it up about anything nerdy. ✌️
+  Hey there! I'm AJ, a passionate developer from Austin, Texas. I enjoy crafting modern <strong>mobile and web applications</strong>. My journey spans across various technologies including <strong>machine learning</strong>, where I've built projects like a <a href="https://github.com/AJ-Brown-InTech/linear-regression">Linear Regression model</a>. Feel free to reach out and discuss anything tech-related! ✌️
 </p>
 
 ---
