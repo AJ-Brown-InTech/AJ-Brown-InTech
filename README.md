@@ -24,35 +24,14 @@
 </p>
 
 ---
-
-<h2 align="center">Tech Stack & Tools</h2>
-
+<!-- Tech Stack & Tools -->
+<h2 align="center">Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Golang-61DAFB?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Google Cloud"/>
-  <br>
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Cloud Firestore"/>
-</p>
-
----
-
-<h2 align="center">Let's Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajtbrown/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0073B1?style=flat-square" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AJ-Brown-InTech">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square" alt="GitHub"/>
-  </a>
-  <a href="https://ajtbrown.com/">
-    <img src="https://img.shields.io/badge/-Website-FFB6C1?style=flat-square" alt="Website"/>
-  </a>
+  <!-- Top row -->
+  <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+   <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white&style=for-the-badge" alt="Elixir" />
+  <br />
+  <!-- Bottom row -->
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Google Cloud" />
 </p>
