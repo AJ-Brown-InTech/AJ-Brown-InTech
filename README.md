@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Helix-5A56E0?logo=helix-editor&logoColor=white&style=for-the-badge" alt="Helix" />
 </p>
 
 <!-- --- -->
