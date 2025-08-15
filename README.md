@@ -5,7 +5,6 @@
 <p align="center">— Aaron Swartz</p>
 
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white&style=for-the-badge" alt="Elixir" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
