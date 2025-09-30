@@ -5,11 +5,6 @@
 
 ---
 
-## 👋 Hey
-
-- 🔭 Currently exploring **Gleam**, diving deeper into functional approaches on OTP/Erlang.  
-- 💻 Proficient in **Go** (backend systems), **React / Svelte** (frontend), and **GCP** (cloud-native solutions).   
----
 
 <p align="center">
   <!-- Backend -->
