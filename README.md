@@ -1,12 +1,4 @@
 <p align="center">
-  <i>"Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity."</i>
-</p>
-<p align="center">— Aaron Swartz</p>
-
----
-
-
-<p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gleam-FFAFF3?logo=gleam&logoColor=black&style=for-the-badge" />
